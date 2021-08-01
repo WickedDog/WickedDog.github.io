@@ -1,0 +1,1 @@
+start bik\start.bat
